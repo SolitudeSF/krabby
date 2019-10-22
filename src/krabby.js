@@ -164,7 +164,7 @@ const mpvResume = () => {
 }
 
 const player = () => {
-  const media = Modal.findParent((element) => element.querySelector('video'))
+  const media = modal.findParent((element) => element.querySelector('video'))
   Mouse.hover(media)
   return new Player(media)
 }
