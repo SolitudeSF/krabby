@@ -1,6 +1,6 @@
 // Environment variables ───────────────────────────────────────────────────────
 
-const VERSION = '0.7.0'
+const VERSION = '0.8.0'
 
 switch (true) {
   case (typeof browser !== 'undefined'):
