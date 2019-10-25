@@ -69,6 +69,7 @@ If you want to play around without installing, a live demo is available [here][L
 
 ## Features
 
+- Keyboard layout agnostic.  Maps to physical keys, but displays with the [US layout][QWERTY].
 - [Subject–object–verb] order
 - Multiple selections as a central way of interacting
 - Powerful selection manipulation primitives
@@ -256,6 +257,7 @@ make install
 
 [Krabby icon]: https://iconfinder.com/icons/877852/kanto_krabby_pokemon_water_icon
 
+[QWERTY]: https://en.wikipedia.org/wiki/QWERTY
 [Subject–object–verb]: https://en.wikipedia.org/wiki/Subject–object–verb
 
 [Chrome]: https://google.com/chrome/
