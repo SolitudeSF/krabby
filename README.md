@@ -26,7 +26,7 @@ After installing, try to accomplish the following examples.
 
 <summary>Opening links in a paragraph</summary>
 
-Go on <https://tuppervim.org> and type:
+Navigate to <https://tuppervim.org> and type:
 
 ```
 f{hint}s[alt+a][alt+I][ctrl+enter][alt+x]
@@ -48,7 +48,7 @@ f{hint}s[alt+a][alt+I][ctrl+enter][alt+x]
 
 <summary>Play videos with mpv</summary>
 
-Go on <https://youtube.com/results?search_query=Berserk+AMV> and type:
+Navigate to <https://youtube.com/results?search_query=Berserk+AMV> and type:
 
 ```
 F{hint}{hint}<page-down>{hint}<escape>m
