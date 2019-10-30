@@ -146,14 +146,14 @@ Commands are bound to **physical keys** and **displayed** with the [US layout][Q
 ## Clipboard
 
 - <kbd>y</kbd> → Copy page address (**Command** context)
-- <kbd>Y</kbd> → Copy page title (**Command** context)
-- <kbd>Alt</kbd> + <kbd>y</kbd> → Copy page address and title (**Command** context)
+- <kbd>Alt</kbd> + <kbd>y</kbd> → Copy page title (**Command** context)
+- <kbd>Y</kbd> → Copy page address and title (**Command** context)
 - <kbd>y</kbd> → Copy link address (**Link** context)
-- <kbd>Y</kbd> → Copy link text (**Link** context)
-- <kbd>Alt</kbd> + <kbd>y</kbd> → Copy link address and text (**Link** context)
+- <kbd>Alt</kbd> + <kbd>y</kbd> → Copy link text (**Link** context)
+- <kbd>Y</kbd> → Copy link address and text (**Link** context)
 - <kbd>y</kbd> → Copy image address (**Image** context)
-- <kbd>Y</kbd> → Copy image description (**Image** context)
-- <kbd>Alt</kbd> + <kbd>y</kbd> → Copy image address and description (**Image** context)
+- <kbd>Alt</kbd> + <kbd>y</kbd> → Copy image description (**Image** context)
+- <kbd>Y</kbd> → Copy image address and description (**Image** context)
 
 ## Player
 
